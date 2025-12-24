@@ -2,3 +2,5 @@
 
 # Ko-5 Go engine
 
+---
+Copyright (c) 2025 The Ko-5 Authors.
